@@ -55,10 +55,10 @@ import sphinx_rtd_theme
 html_theme = 'sphinx_rtd_theme'
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
-#¹«Ë¾×Ô¶¨ÒåjsºÍcss
+#ï¿½ï¿½Ë¾ï¿½Ô¶ï¿½ï¿½ï¿½jsï¿½ï¿½css
 html_js_files = [
-    'https://ezblock.cc/readDocFile/topHead.js',
+    'https://ezblock.cc/readDocFile/custom.js',
 ]
 html_css_files = [
-    'https://ezblock.cc/readDocFile/topHead.css',
+    'https://ezblock.cc/readDocFile/custom.css',
 ]
